@@ -41,6 +41,8 @@ A implementação do DataOps pode demandar algum tempo, além de ser um processo
 
 Para implamentação do `DataOps` é importante conhecer algumas ferramentas que podem facilitar e dar velocidade ao processo, Além das ferramentas de `DevOps` existem algumas bem específicas para o cenário de governança de dados:
 
+[**AWS Glue**](https://aws.amazon.com/pt/glue/): um serviço de `ETL` da `Amazon` que permite a criação, execução e gerenciamento de pipelines de dados.
+
 [**Talend**](https://www.talend.com/): uma plataforma de integração de dados que oferece ferramentas para coletar, integrar e distribuir dados.
 
 [**DataKitchen**](https://datakitchen.io/): uma plataforma de automação em DataOps.
@@ -50,11 +52,11 @@ Para implamentação do `DataOps` é importante conhecer algumas ferramentas que
 [**Apache Nifi**](https://nifi.apache.org/): um sistema de fluxo de dados de código aberto para automatizar a movimentação e o tratamento de dados.
 
 [**Apache Airflow**](https://airflow.apache.org/): um sistema de orquestração de pipelines de dados baseado em tarefas.
-AWS Glue: um serviço de ETL da Amazon que permite a criação, execução e gerenciamento de pipelines de dados.
+
 
 Na prática, com o uso das ferramentas adequadas, a implementação seguirá algumas etapas: 
 
-**Entender as Necessidades de Dados**: Em primeiro lugar, é importante compreender quais são as necessidades de dados da empresa. Isso pode envolver a definição de KPIs, o entendimento do fluxo de dados e a identificação dos dados críticos para o negócio.
+**Entender as Necessidades de Dados**: Em primeiro lugar, é importante compreender quais são as necessidades de dados da empresa. Isso pode envolver a definição de `KPIs`, o entendimento do fluxo de dados e a identificação dos dados críticos para o negócio.
 
 **Montar os Pipelines de Dados**: Uma vez que as necessidades de dados estão claras, é hora de criar os pipelines de dados para coletar, processar e distribuir os dados. Isso pode ser feito utilizando ferramentas de integração de dados, como `Apache Airflow` ou `Talend`.
 
