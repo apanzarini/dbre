@@ -1,4 +1,4 @@
-DBRE
+DataOps
 ------------------
 
 A importância dos dados nas organizações é indiscutível e amplamente reconhecida. À medida que  os negócios avançam em sua maturidade quanto ao uso de dados para embasar processos decisórios, uma disciplina emergente tem se destacado: `DataOps`.
@@ -9,7 +9,7 @@ O `DataOps` representa uma abordagem colaborativa para a gestão dos fluxos de d
 
 Trata-se de uma estratégia destinada a aprimorar os processos envolvidos nos pipelines de dados, desde o desenvolvimento até a entrega final, visando torná-los mais eficientes, seguros e dimensionáveis. Essa meta é alcançada por meio da automação de tarefas repetitivas, monitoramento contínuo e colaboração estreita entre equipes de desenvolvimento de software e equipes de dados.
 
-o `DataOps` representa uma evolução natural da aplicação dos preceitos do `DevOps` ao ciclo de vida dos dados. O ponto principal da filosofia  DataOps` é a ideia de que, ao construir um ambiente em torno dos dados, no qual a automação, monitoramento e colaboração são privilegiados, é possível aumentar a produtividade, garantir a satisfação dos clientes e, em última análise, promover um trabalho de excelência.
+o `DataOps` representa uma evolução natural da aplicação dos preceitos do `DevOps` ao ciclo de vida dos dados. O ponto principal da filosofia `DataOps` é a ideia de que, ao construir um ambiente em torno dos dados, no qual a automação, monitoramento e colaboração são privilegiados, é possível aumentar a produtividade, garantir a satisfação dos clientes e, em última análise, promover um trabalho de excelência.
 
 Basicamente, as pipelines de `DataOps`terão foco em 3 pontos essenciais:
 
@@ -39,7 +39,7 @@ A implementação do DataOps envolve diversos passos, incluindo:
 
 A implementação do DataOps pode demandar algum tempo, além de ser um processo contínuo. Quando realizada de forma adequada, pode melhorar significativamente a qualidade, confiabilidade e agilidade na entrega de dados
 
-Para implamentação do `DataOps` é importante conhecer algumas ferramentas que podem facilitar e dar velocidade ao processo, Além das ferramentas de `DevOps` existem algumas bem específicas para o cdenário de governança de dados:
+Para implamentação do `DataOps` é importante conhecer algumas ferramentas que podem facilitar e dar velocidade ao processo, Além das ferramentas de `DevOps` existem algumas bem específicas para o cenário de governança de dados:
 
 [**Talend**](https://www.talend.com/): uma plataforma de integração de dados que oferece ferramentas para coletar, integrar e distribuir dados.
 
@@ -56,11 +56,11 @@ Na prática, com o uso das ferramentas adequadas, a implementação seguirá alg
 
 **Entender as Necessidades de Dados**: Em primeiro lugar, é importante compreender quais são as necessidades de dados da empresa. Isso pode envolver a definição de KPIs, o entendimento do fluxo de dados e a identificação dos dados críticos para o negócio.
 
-**Montar os Pipelines de Dados**: Uma vez que as necessidades de dados estão claras, é hora de criar os pipelines de dados para coletar, processar e distribuir os dados. Isso pode ser feito utilizando ferramentas de integração de dados, como Apache Airflow ou Talend.
+**Montar os Pipelines de Dados**: Uma vez que as necessidades de dados estão claras, é hora de criar os pipelines de dados para coletar, processar e distribuir os dados. Isso pode ser feito utilizando ferramentas de integração de dados, como `Apache Airflow` ou `Talend`.
 
-**Automatizar os Processos**: Na sequência, é necessário automatizar processos como a validação de dados, a geração de relatórios e a distribuição de dados. Isso pode ser alcançado por meio de scripts ou ferramentas de automação, como Apache Nifi.
+**Automatizar os Processos**: Na sequência, é necessário automatizar processos como a validação de dados, a geração de relatórios e a distribuição de dados. Isso pode ser alcançado por meio de scripts ou ferramentas de automação, como `Apache Nifi`.
 
-**Monitorar e Otimizar os Pipelines de Dados**: É fundamental monitorar continuamente o desempenho dos pipelines de dados para identificar problemas e oportunidades de otimização. Isso pode ser feito utilizando ferramentas de monitoramento, como Amazon CloudWatch.
+**Monitorar e Otimizar os Pipelines de Dados**: É fundamental monitorar continuamente o desempenho dos pipelines de dados para identificar problemas e oportunidades de otimização. Isso pode ser feito utilizando ferramentas de monitoramento, como `Amazon CloudWatch`, `Amazon XRay`, `Grafana` ou `Prometheus`.
 
 **Colaboração e Documentação**: Por fim, é importante promover a colaboração entre as equipes e documentar os processos para garantir transparência e escalabilidade. Isso pode ser realizado utilizando ferramentas de colaboração, como Confluence, e criando documentação detalhada dos processos de dados.
 
