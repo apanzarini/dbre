@@ -45,7 +45,7 @@ Para implamentação do `DataOps` é importante conhecer algumas ferramentas que
 
 [**Talend**](https://www.talend.com/): uma plataforma de integração de dados que oferece ferramentas para coletar, integrar e distribuir dados.
 
-[**DataKitchen**](https://datakitchen.io/): uma plataforma de automação em DataOps.
+[**DataKitchen**](https://datakitchen.io/): uma plataforma de automação em `DataOps`.
 
 [**StreamSets**](https://streamsets.com/): uma plataforma de gerenciamento de dados que permite a criação, execução e monitoramento de pipelines de dados.
 
