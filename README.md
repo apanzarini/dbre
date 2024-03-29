@@ -1,5 +1,5 @@
 # DBRE
-a infraestrutura como código também está afetando a administração do banco de dados. Aqui temos aplicação da prática moderna de engenharia de confiabilidade do site à arte da operação e arquitetura de banco de dados
+infrastructure as code is also affecting database administration. Here we have application of modern site reliability engineering practice to the art of database operation and architecture
 
-#### Objetivos:
- Explorar os principais conceitos operacionais que os DBREs precisam dominar. Examinar uma ampla variedade de opções de persistência de banco de dados, incluindo como implementar as principais tecnologias para fornecer armazenamento e recuperação de dados resilientes, escalonáveis e com bom desempenho. 
+#### Objectives:
+ To explore the key operational concepts that DBREs need to master the discipline. Examine a wide range of database persistence options, including how to implement key technologies to provide resilient, scalable and performant data storage and retrieval. 
