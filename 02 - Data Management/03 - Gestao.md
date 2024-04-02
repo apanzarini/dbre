@@ -34,6 +34,9 @@ Algumas referências sobre Gestão de Dados, incluindo o guia DAMA-DMBOK©, não
 a sabedoria como último estágio desta cadeia, justamente pelo fato dela depender em grande parte da competência
  humana para atingir este estágio.
 ````
+
+#### Exemplo:
+
 ![cadeia](images/02-03-01.png)
 
 
