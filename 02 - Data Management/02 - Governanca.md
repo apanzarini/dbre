@@ -47,4 +47,4 @@ Podemos elencar os principais ganhos que são comuns à maioria das organizaçõ
 * auditar e avaliar o sistema de gestão e controle;
 * Promover a accountability (prestação de contas e responsabilidade) e a transparência.
 
-_fonte: https://cdn.evg.gov.br/_
+_fonte: https://www.escolavirtual.gov.br/_

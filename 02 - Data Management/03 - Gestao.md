@@ -49,4 +49,4 @@ a sabedoria como último estágio desta cadeia, justamente pelo fato dela depend
 * manter a comunicação com as partes interessadas;
 * avaliar o desempenho e aprender.
 
-_fonte: https://cdn.evg.gov.br/_
+_fonte: https://www.escolavirtual.gov.br/_
