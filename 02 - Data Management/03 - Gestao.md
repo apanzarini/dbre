@@ -40,4 +40,13 @@ a sabedoria como último estágio desta cadeia, justamente pelo fato dela depend
 ![cadeia](images/02-03-01.png)
 
 
+#### Funções da Gestão:
+
+* implementar programas;
+* garantir a conformidade com as regulamentações;
+* revisar e reportar o progresso de ações;
+* garantir a eficiência administrativa;
+* manter a comunicação com as partes interessadas;
+* avaliar o desempenho e aprender.
+
 _fonte: https://cdn.evg.gov.br/_
