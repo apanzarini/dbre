@@ -30,9 +30,9 @@ Corresponde ao processamento das informações com significados, premissas, padr
 É a utilização do conhecimento com efetividade. Apesar das aplicações de inteligência analítica já serem uma realidade dentro do mercado, fornecendo condições para a organização atingir o estágio anterior, muitas organizações que possuem estes subsídios desejam a sabedoria, mas não a conseguem. Parte deste fracasso está na confiabilidade dos dados, que não foram bem geridos no decorrer da evolução da cadeia. Outra parte na falta de habilidade dos profissionais em extrair as informações e utilizá-las de forma vantajosa.
 
 ````
-Algumas referências sobre Gestão de Dados, incluindo o guia DAMA-DMBOK©, não descrevem e também não reconhecem 
-a sabedoria como último estágio desta cadeia, justamente pelo fato dela depender em grande parte da competência
- humana para atingir este estágio.
+Algumas referências sobre Gestão de Dados, incluindo o guia DAMA-DMBOK©, não descrevem e também não 
+reconhecem a sabedoria como último estágio desta cadeia, justamente pelo fato dela depender em grande parte da 
+competência humana para atingir este estágio.
 ````
 
 #### Exemplo:
