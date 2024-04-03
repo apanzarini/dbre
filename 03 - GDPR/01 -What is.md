@@ -30,7 +30,7 @@ Nesse cenário, a norma se preocupou em fornecer instrumentos de controle para t
 
 Embora as duas normas sejam semelhantes, existem diferenças relevantes entre elas, principalmente porque é necessário considerar diferenças culturais. Assim, a GDPR pode ser considerada mais restritiva e detalhada, enquanto a LGPD é um pouco mais genérica, deixando muitas lacunas para regulamentação posterior.
 
-#### Princípios que fundamental a Lei Geral de Proteção de Dados
+#### Princípios que fundamentam a Lei Geral de Proteção de Dados
 
 A LGPD se fundamenta basicamente em 11 princípios. Eles servem para nortear as ações das empresas e são a base de todos os dispositivos legais. Saiba um pouco mais sobre eles a seguir.
 
