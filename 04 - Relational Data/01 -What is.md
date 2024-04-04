@@ -66,18 +66,10 @@ Quatro propriedades essenciais definem as transações de bancos de dados relaci
 * Isolamento** mantém o efeito de uma transação invisível para os outros até que ela seja confirmada, para evitar confusão.
 * A durabilidade garante que as alterações nos dados se tornem permanentes depois que a transação for confirmada.
 
-Procedimentos armazenados e bancos de dados relacionais
+Stored Procedures e bancos de dados relacionais
 ------------------------------------------
 
 O acesso aos dados envolve muitas ações repetitivas. Por exemplo, uma simples consulta para obter informações de uma tabela de dados pode precisar ser repetida centenas ou milhares de vezes para produzir o resultado desejado. Essas funções de acesso a dados exigem algum tipo de código para acessar o banco de dados. Os desenvolvedores de aplicativos não querem escrever um novo código para essas funções em cada novo aplicativo. Felizmente, os bancos de dados relacionais permitem procedimentos armazenados, que são blocos de código que podem ser acessados com uma simples chamada de aplicativo. Por exemplo, um único procedimento armazenado pode fornecer marcação consistente de registros para usuários de vários aplicativos. Os procedimentos armazenados também podem ajudar os desenvolvedores a garantir que determinadas funções de dados no aplicativo sejam implementadas de uma maneira específica.
-
-Bloqueio e simultaneidade do banco de dados
---------------------------------
-
-Podem surgir conflitos em um banco de dados quando vários usuários ou aplicativos tentam alterar os mesmos dados ao mesmo tempo. As técnicas de bloqueio e simultaneidade reduzem o potencial de conflitos e, ao mesmo tempo, mantêm a integridade dos dados.
-
-O bloqueio impede que outros usuários e aplicativos acessem os dados enquanto eles estão sendo atualizados. Em alguns bancos de dados, o bloqueio se aplica a toda a tabela, o que gera um impacto negativo no desempenho do aplicativo. Outros bancos de dados, como os bancos de dados relacionais Oracle, aplicam bloqueios no nível do registro, deixando disponíveis os outros registros da tabela, o que ajuda a garantir um melhor desempenho do aplicativo.
-
 
 Bloqueio e simultaneidade de banco de dados
 --------------------------------
