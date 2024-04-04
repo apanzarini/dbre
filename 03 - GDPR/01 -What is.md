@@ -1,5 +1,5 @@
 LGPD 
-------------------
+================
 
 A [LGPD](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm) já se faz presente no Brasil desde 2018 com princípios ancorados na [GDPR](https://gdpr-info.eu/) e os seus efeitos podem ser observados por todas as empresas que veem na internet uma ferramenta impulsionadora de negócios.
 

@@ -1,5 +1,5 @@
 DataOps
-------------------
+============
 
 A importância dos dados nas organizações é indiscutível e amplamente reconhecida. À medida que  os negócios avançam em sua maturidade quanto ao uso de dados para embasar processos decisórios, uma disciplina emergente tem se destacado: `DataOps`.
 

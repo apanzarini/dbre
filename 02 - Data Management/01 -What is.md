@@ -1,5 +1,5 @@
 Gestão e Governança de Dados 
-----------------------------
+=============================
 
 Vamos abordar com maior profundidade estes 2 conceitos fortemente ligados, mas que apresentam diferenças cruciais na administração de um dos recursos mais valiosos das corporações modernas: os Dados!
 
