@@ -10,6 +10,40 @@ SQL statements
 
 As `SQL statements`(instruções SQL), ou `Querys`(consultas SQL), são instruções válidas que os sistemas de gerenciamento de bancos de dados relacionais entendem. Os desenvolvedores de software criam instruções SQL usando diferentes elementos da linguagem SQL. Os elementos da linguagem SQL são componentes como identificadores, variáveis e condições de pesquisa que formam uma instrução SQL correta.
 
+A Linguagem `SQL` possue um agrupamento de comandos específicos para determinadas ações em um banco de dados, trataremo com maior detalhe sobre alguns dos grupos, porém, já podemos adiantar como estes comandos estão classificados:
+
+
+![client-order](images/04-02-01.png)
+
+* DDL - Data Definition Language - Linguagem de Definição de Dados.
+São os comandos que interagem com os objetos do banco.
+
+    São comandos DDL : CREATE, ALTER e DROP
+
+* DML - Data Manipulation Language - Linguagem de Manipulação de Dados.
+São os comandos que interagem com os dados dentro das tabelas.
+
+    São comandos DML : INSERT, DELETE e UPDATE
+
+* DQL - Data Query Language - Linguagem de Consulta de dados.
+
+    São os comandos de consulta.
+
+    São comandos DQL : SELECT (é o comando de consulta)
+Aqui cabe um parenteses. Em alguns livros o SELECT fica na DML em outros tem esse grupo próprio.
+
+* DTL - Data Transaction Language - Linguagem de Transação de Dados.
+São os comandos para controle de transação.
+
+    São comandos DTL : BEGIN TRANSACTION, COMMIT E ROLLBACK
+
+* DCL - Data Control Language - Linguagem de Controle de Dados.
+    São os comandos para controlar a parte de segurança do banco de dados.
+
+    São comandos DCL : GRANT, REVOKE E DENY.
+
+![client-order](images/04-02-02.png)
+
 Como funciona o SQL?
 --------------------
 A implementação da linguagem de consulta estruturada (SQL) envolve um computador servidor que processa as consultas ao banco de dados e retorna os resultados. O processo SQL passa por vários componentes de software, incluindo os seguintes. 
