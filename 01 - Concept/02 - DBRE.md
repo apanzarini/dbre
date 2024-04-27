@@ -27,4 +27,4 @@ Veja um paralelo:
 ![DBAxDBRE](images/01-02-01.png)
 _fonte_: _https://ilegra.com/blog/dbre-a-evolucao-do-dba/_
 
-Concluimos que as técnicas de `DBRE` são parte de uma estratégia corporativa que se inicia na implementação da metodologia `DevOps`, apoiado na disciplina de`SRE` e seus [pilares](/01%20-%20Concept/01%20-%20Background.md#pilares-do-sre) que permitirão aos engenheiros de `DBRE` construirem de um conjunto de implementações que trarão segurança ao negócio diante do desafio de armazenar, disponibilizar e gerenciar bem suas informações além do acesso a cada uma delas.
+Concluimos que as técnicas de `DBRE` são parte de uma estratégia corporativa que se inicia na implementação da metodologia `DevOps`, apoiado na disciplina de`SRE` e seus [pilares](/01%20-%20Concept/01%20-%20Background.md#pilares-do-sre) que permitirão aos engenheiros de `DBRE` construirem de um conjunto de peças tecnológicas que trarão segurança ao negócio diante do desafio de armazenar, disponibilizar e gerenciar bem suas informações além do acesso a cada uma delas.
