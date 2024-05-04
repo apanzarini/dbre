@@ -7,7 +7,7 @@ Governança de Dados é o conjunto de políticas, processos, pessoas e tecnologi
 
 * Definir e implementar estratégias de dados, políticas, normas, padrões, arquitetura, processos e métricas.
 * Patrocinar e monitorar os projetos de relacionados à Gestão de Dados.
-* Implementar e gerenciar a Gestão de Riscos relacionadas ao compartilhamento de dados.
+* Implementar a Gestão de Riscos relacionadas ao compartilhamento de dados.
 * Promover o valor dos dados como ativos estratégicos.
 
 #### Importância da Governança de Dados

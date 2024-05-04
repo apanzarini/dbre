@@ -13,6 +13,8 @@ Enquanto a Gestão é inerente e integrada aos processos organizacionais, sendo 
 
 Segundo o [`DAMA-DMBOK©`](https://www.dama.org/cpages/body-of-knowledge) as definições para estas abordagens são:
 
-“`Gestão de Dados` é a função na organização que cuida do planejamento, controle e entrega de ativos de dados e de informação. Esta função inclui: as disciplinas do desenvolvimento, execução e supervisão de planos, políticas, programas, projetos, processos, práticas, e procedimentos que controlam, protegem, distribuem e aperfeiçoam o valor dos ativos de dados e informações”. E a `Governança de Dados` consiste no exercício de autoridade e controle (planejamento, monitoramento e execução) sobre o gerenciamento de ativos de dados.
+`Gestão de Dados` é a função na organização que cuida do planejamento, controle e entrega de ativos de dados e de informação. Esta função inclui: as disciplinas do desenvolvimento, execução e supervisão de planos, políticas, programas, projetos, processos, práticas, e procedimentos que controlam, protegem, distribuem e aperfeiçoam o valor dos ativos de dados e informações”. E a `Governança de Dados` consiste no exercício de autoridade e controle (planejamento, monitoramento e execução) sobre o gerenciamento de ativos de dados.
+
+![DBAxDBRE](images/01-01-01.png)
 
 _fonte: https://www.escolavirtual.gov.br/_
