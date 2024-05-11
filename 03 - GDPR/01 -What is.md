@@ -82,4 +82,5 @@ A LGPD é uma Lei que valoriza a boa-fé e os esforços prévios. Dessa maneira,
 
 É comum que as empresas criem processos excelentes, mas, quando solicitadas, não tenham sequer um relatório para oferecer. É fundamental documentar suas ações para que seja possível prestar contas quando necessário.
 
+![LGPD](images/03-01-01.png)
 _fonte: https://www.serasa.com.br/protecao-dados-pessoais_
