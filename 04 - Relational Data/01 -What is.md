@@ -67,9 +67,9 @@ Propriedades ACID e DBMS
 
 Quatro propriedades essenciais definem as transações de bancos de dados relacionais: atomicidade, consistência, isolamento e durabilidade - normalmente chamadas de ACID.
 
-* A atomicidade** define todos os elementos que compõem uma transação de banco de dados completa.
-* Consistência** define as regras para manter os pontos de dados em um estado correto após uma transação.
-* Isolamento** mantém o efeito de uma transação invisível para os outros até que ela seja confirmada, para evitar confusão.
+* A atomicidade define todos os elementos que compõem uma transação de banco de dados completa.
+* Consistência define as regras para manter os pontos de dados em um estado correto após uma transação.
+* Isolamento mantém o efeito de uma transação invisível para os outros até que ela seja confirmada, para evitar erros na operação.
 * A durabilidade garante que as alterações nos dados se tornem permanentes depois que a transação for confirmada.
 
 Stored Procedures e bancos de dados relacionais
@@ -98,7 +98,7 @@ Vários fatores podem orientar sua decisão ao escolher entre tipos de bancos de
 * Qual é a importância da simultaneidade? Vários usuários e aplicativos precisarão de acesso simultâneo aos dados? O software do banco de dados oferece suporte à simultaneidade e, ao mesmo tempo, protege os dados?
 * Quais são as nossas necessidades de desempenho e confiabilidade? Precisamos de um produto de alto desempenho e alta confiabilidade? Quais são os requisitos de desempenho de resposta a consultas? Quais são os compromissos do fornecedor em relação aos acordos de nível de serviço (SLAs) ou ao tempo de inatividade não planejado?
 
-O banco de dados relacional do futuro: O banco de dados autônomo
+O banco de dados relacionais avançados: O banco de dados autônomo
 ----------------------------------------------------------------
 
 Com o passar dos anos, os bancos de dados relacionais ficaram melhores, mais rápidos, mais fortes e mais fáceis de trabalhar. Mas eles também se tornaram mais complexos, e administrar o banco de dados tem sido um trabalho de tempo integral. Em vez de usar sua experiência para se concentrar no desenvolvimento de aplicativos inovadores que agregam valor aos negócios, os desenvolvedores tiveram que dedicar a maior parte do tempo à atividade de gerenciamento necessária para otimizar o desempenho do banco de dados.
