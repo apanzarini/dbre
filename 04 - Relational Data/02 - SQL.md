@@ -10,7 +10,7 @@ SQL statements
 
 As `SQL statements`(instruções SQL), ou `Querys`(consultas SQL), são instruções válidas que os sistemas de gerenciamento de bancos de dados relacionais entendem. Os desenvolvedores de software criam instruções SQL usando diferentes elementos da linguagem SQL. Os elementos da linguagem SQL são componentes como identificadores, variáveis e condições de pesquisa que formam uma instrução SQL correta.
 
-A Linguagem `SQL` possue um agrupamento de comandos específicos para determinadas ações em um banco de dados, trataremo com maior detalhe sobre alguns dos grupos, porém, já podemos adiantar como estes comandos estão classificados:
+A Linguagem `SQL` possue um agrupamento de comandos específicos para determinadas ações em um banco de dados, trataremos com maior detalhe sobre alguns dos grupos, porém, já podemos adiantar como estes comandos estão classificados:
 
 
 ![client-order](images/04-02-01.png)

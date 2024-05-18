@@ -4,7 +4,7 @@ DML - Data Manipulation Language
 Definição de DML
 -----------------------------------
 
-DML (Data Manipulation Language)  é um conjunto de  comandos que permitem aos desenvolvedores manipular dados em um banco de dados. Essa manipulação envolve a inserção de dados em tabelas de banco de dados, a recuperação de dados existentes, a exclusão de dados de tabelas existentes e a modificação de dados existentes. A DML é incorporada em toos os bancos de dados Relacionais.
+DML (Data Manipulation Language)  é um conjunto de  comandos que permitem aos desenvolvedores manipular dados em um banco de dados. Essa manipulação envolve a inserção de dados em tabelas de banco de dados, a recuperação de dados existentes, a exclusão de dados de tabelas existentes e a modificação de dados existentes. A DML é incorporada em todos os bancos de dados Relacionais.
 
 A DML se assemelha à linguagem simples do inglês e aprimora a interação eficiente do usuário com o sistema. A capacidade funcional da DML é organizada em comandos de manipulação como SELECT, UPDATE, INSERT INTO e DELETE FROM, conforme descrito abaixo:
 
@@ -41,7 +41,7 @@ Existem basicamente dois tipos de linguagem de manipulação de dados. Eles são
 Existem basicamente dois tipos de Linguagem de Manipulação de Dados. Eles são mencionados abaixo. Nós as descrevemos na diferença entre os formatos.
 
 1.  DML de alto nível ou não-procedimental
-2.  DML de baixo nível ou processual
+2.  DML de baixo nível ou procedural
 
 ### DML de alto nível ou não procedural vs. DML de baixo nível ou procedural
 
