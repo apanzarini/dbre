@@ -46,7 +46,7 @@ Existem basicamente dois tipos de Linguagem de Manipulação de Dados. Eles são
 ### DML de alto nível ou não procedural vs. DML de baixo nível ou procedural
 
  |DML de alto nível ou sem procedimento|DML de baixo nível ou procedural|
-|:---:	|---	|
+|:---:|:---:|
 |Também é rotulada como DML orientada a conjuntos ou séries.|Também é chamada de DML de rastreamento em tempo real.|
 |Pode ser usada isoladamente para especificar com precisão operações complexas no banco de dados.|Deve ser integrada a uma linguagem de programação de uso geral.|
 | Sua natureza é prescritiva.|É Por natureza, associada a uma solução programada|
