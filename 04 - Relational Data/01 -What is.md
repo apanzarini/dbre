@@ -34,7 +34,13 @@ Com o tempo, outro ponto forte do modelo relacional surgiu quando os desenvolved
 Benefícios do sistema de gerenciamento de banco de dados relacional
 -------------------------------------------------
 
-O modelo relacional simples, porém poderoso, é usado por organizações de todos os tipos e tamanhos para uma ampla variedade de necessidades de informações. Os bancos de dados relacionais são usados para rastrear estoques, processar transações de comércio eletrônico, gerenciar grandes quantidades de informações essenciais sobre clientes e muito mais. Um banco de dados relacional pode ser considerado para qualquer necessidade de informação na qual os pontos de dados se relacionam entre si e devem ser gerenciados de forma segura, consistente e baseada em regras.
+O modelo relacional simples, porém poderoso, é usado por organizações de todos os tipos e tamanhos para uma ampla variedade de necessidades de informações. Os bancos de dados relacionais são usados para rastrear estoques, processar transações de comércio eletrônico, gerenciar grandes quantidades de informações essenciais sobre clientes e muito mais. Um banco de dados relacional pode ser considerado para qualquer necessidade de informação na qual os pontos de dados se relacionam entre si e devem ser gerenciados de forma segura, consistente e baseada em regras, entre os benefícios destacamos:
+
+* Amplamente conhecido e utilizado.
+* Variedade de ferramentas para implantação e gerenciamento
+* Implementa técnicas de segurança
+* Alta aplicabilidade para diversos tipos de negócio
+* Maturidade de implementação/boas práticas.
 
 Os bancos de dados relacionais existem desde a década de 1970. Atualmente, as vantagens do modelo relacional continuam a torná-lo o modelo mais amplamente aceito para bancos de dados.
 
