@@ -2,7 +2,7 @@ Opções AWS para base de dados NoSQL
 =====================================
 
 
-O AWS tem vários serviços de banco de dados NoSQL para atender a todos os seus requisitos de NoSQL. Por exemplo:
+O AWS tem vários serviços de banco de dados para atender a todos os seus requisitos de NoSQL. Por exemplo:
 
 * O [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) é um serviço de banco de dados de valores-chave sem servidor, totalmente gerenciado, que oferece desempenho consistente de um dígito por milissegundo com escalabilidade ilimitada.
 * O [Amazon DocumentDB (com compatibilidade com MongoDB)](https://aws.amazon.com/documentdb/) é um banco de dados de documentos JSON nativo e totalmente gerenciado que facilita e economiza a operação de cargas de trabalho críticas de documentos em praticamente qualquer escala, sem gerenciar a infraestrutura.
