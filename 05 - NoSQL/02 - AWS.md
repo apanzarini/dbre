@@ -1,8 +1,6 @@
 Opções AWS para base de dados NoSQL
 =====================================
 
-Opções da AWS para banco de dados NoSQL
-----------------------------------------------------
 
 O AWS tem vários serviços de banco de dados NoSQL para atender a todos os seus requisitos de NoSQL. Por exemplo:
 
