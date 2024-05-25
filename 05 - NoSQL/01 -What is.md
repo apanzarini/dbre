@@ -26,6 +26,9 @@ Os bancos de dados NoSQL são otimizados para modelos de dados e padrões de ace
 
 Os bancos de dados NoSQL fornecem APIs altamente funcionais e tipos de dados criados especificamente para cada um de seus respectivos modelos de dados.
 
+### Agilidade
+
+Com a capacidade de responder a situações não planejadas, os BDs NoSQL atendem a ciclos de versão de software frequentes e são adequados para um desenvolvimento de aplicativo mais ágil e rápido.
 
 
 Quais são os casos de uso dos bancos de dados NoSQL?
@@ -56,8 +59,12 @@ Os bancos de dados NoSQL usam uma variedade de modelos de dados para acessar e g
 Considere este exemplo de modelagem do esquema de um banco de dados de livros simples:
 
 * Em um banco de dados relacional, um registro de livro é frequentemente desmontado (ou "normalizado") e armazenado em tabelas separadas, e os relacionamentos são definidos por restrições de chave primária e estrangeira. Neste exemplo, a tabela **Books** tem colunas para **ISBN**, **Título do livro** e **Número da edição**; a tabela **Authors** tem colunas para **AuthorID** e **Nome do autor**; e, finalmente, a tabela **Author-ISBN** tem colunas para **AuthorID** e **ISBN**. O modelo relacional foi projetado para permitir que o banco de dados imponha a integridade referencial entre as tabelas do banco de dados, normalizado para reduzir a redundância e, em geral, otimizado para armazenamento.
+
+![SQL](images/05-01-01.png)
+
 * Em um banco de dados NoSQL, um registro de livro geralmente é armazenado como um documento. Para cada livro, o item, **ISBN**, **Título do livro**, **Número da edição**, **Nome do autor** e **ID do autor** são armazenados como atributos em um único documento. Nesse modelo, os dados são otimizados para desenvolvimento intuitivo e escalabilidade horizontal.
 
+![SQL](images/05-01-02.png)
 
 ### Terminologia SQL vs. NoSQL
 
@@ -109,21 +116,12 @@ Foi somente em meados e no final dos anos 2000 que outros modelos de dados flex�
 
 | |Bancos de dados relacionais|Bancos de dados NoSQL|
 |----|----|----|
-|Cargas de trabalho ideais|[Bancos de dados relacionais] (https://aws.amazon.com/relational-database/) são projetados para aplicativos de processamento de transações on-line (OLTP) transacionais e fortemente consistentes. Eles também são bons para o processamento analítico on-line (OLAP).| Os bancos de dados NoSQL são projetados para vários padrões de acesso a dados que incluem aplicativos de baixa latência. Os bancos de dados de pesquisa NoSQL são projetados para análise de dados semiestruturados.|
+|Cargas de trabalho ideais|[Bancos de dados relacionais](https://aws.amazon.com/relational-database/) são projetados para aplicativos de processamento de transações on-line (OLTP) transacionais e fortemente consistentes. Eles também são bons para o processamento analítico on-line (OLAP).| Os bancos de dados NoSQL são projetados para vários padrões de acesso a dados que incluem aplicativos de baixa latência. Os bancos de dados de pesquisa NoSQL são projetados para análise de dados semiestruturados.|
 |Modelo de dados| O modelo relacional normaliza os dados em tabelas compostas de linhas e colunas. Um esquema define estritamente as tabelas, as linhas, as colunas, os índices, as relações entre as tabelas e outros elementos do banco de dados.| Os bancos de dados NoSQL fornecem uma variedade de modelos de dados, como valor-chave, documento, gráfico e coluna, que são otimizados para desempenho e escala.|
 |Propriedades ACID| Os bancos de dados relacionais oferecem propriedades de atomicidade, consistência, isolamento e durabilidade (ACID): `Atomicidade` exige que uma transação seja executada completamente ou não seja executada. `Consistência` exige que os dados estejam em conformidade com o esquema do banco de dados quando uma transação tiver sido confirmada. `Isolamento` exige que as transações simultâneas sejam executadas separadamente umas das outras. A `durabilidade` requer a capacidade de se recuperar de uma falha inesperada do sistema ou de uma queda de energia até o último estado conhecido.| A maioria dos bancos de dados NoSQL oferece compensações ao relaxar algumas das propriedades ACID dos bancos de dados relacionais em favor de um modelo de dados mais flexível que pode ser dimensionado horizontalmente. Isso torna os bancos de dados NoSQL uma excelente opção para casos de uso de alto rendimento e baixa latência que precisam ser escalonados horizontalmente além das limitações de uma única instância.|
 |Desempenho| O desempenho geralmente depende do subsistema de disco. A otimização de consultas, índices e estrutura de tabelas geralmente é necessária para atingir o desempenho máximo.| O desempenho geralmente é uma função do tamanho do cluster de hardware subjacente, da latência da rede e do aplicativo de chamada.|
 |Escala| os bancos de dados relacionais normalmente são escalonados com o aumento dos recursos de computação do hardware ou escalonados com a adição de réplicas para cargas de trabalho somente de leitura.|Os bancos de dados NoSQL geralmente são particionáveis. Isso ocorre porque os padrões de acesso podem ser ampliados com o uso da arquitetura distribuída para aumentar o rendimento, o que proporciona um desempenho consistente em escala quase ilimitada.|
 |APIs| As solicitações para armazenar e recuperar dados são comunicadas por meio de consultas que estão em conformidade com uma linguagem de consulta estruturada (SQL). Essas consultas são analisadas e executadas pelo banco de dados relacional.|A APIs baseadas em objetos permitem que os desenvolvedores de aplicativos armazenem e recuperem estruturas de dados com facilidade. As chaves de partição permitem que os aplicativos procurem pares de valores-chave, conjuntos de colunas ou documentos semiestruturados que contenham objetos e atributos de aplicativos serializados.|
-
-| |Relational databases|NoSQL databases|
-|----|----|----|
-|Optimal workloads|[Relational databases](https://aws.amazon.com/relational-database/) are designed for transactional and strongly consistent online transaction processing (OLTP) applications. They are also good for online analytical processing (OLAP).|NoSQL databases are designed for a number of data access patterns that include low-latency applications. NoSQL search databases are designed for analytics over semi-structured data.|
-|Data model|The relational model normalizes data into tables that are composed of rows and columns. A schema strictly defines the tables, rows, columns, indexes, relationships between tables, and other database elements. The database enforces referential integrity in relationships between tables.|NoSQL databases provide a variety of data models, such as key-value, document, graph, and column, which are optimized for performance and scale.|
-|ACID properties|Relational databases provide atomicity, consistency, isolation, and durability (ACID) properties: `Atomicity` requires a transaction to execute completely or not at all.`Consistency` requires that the data must conform to the database schema when a transaction has been committed.`  Isolation` requires that concurrent transactions execute separately from each other. `Durability` requires the ability to recover from an unexpected system failure or power outage to the last known state.|Most NoSQL databases offer trade-offs by relaxing some of the ACID properties of relational databases in favor of a more flexible data model that can scale horizontally. This makes NoSQL databases an excellent choice for high-throughput, low-latency use cases that need to scale horizontally beyond the limitations of a single instance.|
-|Performance|Performance is generally dependent on the disk subsystem. The optimization of queries, indexes, and table structure is often required to achieve peak performance.|Performance is generally a function of the underlying hardware cluster size, network latency, and the calling application.|
-|Scale|Relational databases typically scale up by increasing the compute capabilities of hardware or scale out by adding replicas for read-only workloads.|NoSQL databases are typically partitionable. This is because access patterns can scale out by using distributed architecture to increase throughput that provides consistent performance at near-boundless scale.|
-|APIs|Requests to store and retrieve data are communicated using queries that conform to a structured query language (SQL). These queries are parsed and executed by the relational database.|Object-based APIs allow app developers to easily store and retrieve data structures. Partition keys let apps look up key-value pairs, column sets, or semi-structured documents that contain serialized app objects and attributes.|
 
 Quando você deve escolher bancos de dados NoSQL em vez de bancos de dados SQL
 ---------------------------------------------------------
