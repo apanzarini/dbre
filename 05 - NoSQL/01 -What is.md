@@ -1,5 +1,5 @@
 Arquitetura NoSQL
-------------------
+===================
 
 Os bancos de dados NoSQL são criados especificamente para modelos de dados específicos e armazenam dados em esquemas flexíveis que são facilmente dimensionados para aplicativos modernos. Os bancos de dados NoSQL são amplamente reconhecidos por sua facilidade de desenvolvimento, funcionalidade e desempenho em escala. Esta página inclui recursos para ajudá-lo a entender melhor os bancos de dados NoSQL e a começar.
 

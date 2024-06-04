@@ -1,5 +1,5 @@
 Tabela de Soluções de Armazenamento de Dados na Nuvem
--------------------------------------------
+=====================================================
 
 
 | Provedor      | Categoria de Serviço              | Nome do Serviço                              | Descrição                                                                                      | Uso                                                                                       |

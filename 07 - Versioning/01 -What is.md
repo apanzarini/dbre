@@ -1,5 +1,5 @@
 Controle de versão em banco de dados 
-------------------------------------
+==================================
 
 Um ambiente robusto DevOps requer integração contínua para os componentes do sistema. Mas frequentemente, o database é omitido, conduzindo a problemas de versões de produção frágeis e práticas de desenvolvimento que tornam a vida dos novos programadores mais difíceis.
 
