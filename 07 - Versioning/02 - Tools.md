@@ -8,7 +8,6 @@ Principais Ferramentas para Controle de Versão de Banco de Dados
 | Ferramenta          | Descrição                                                                                   |
 |---------------------|---------------------------------------------------------------------------------------------|
 | **Flyway**          | Uma ferramenta de migração de banco de dados baseada em SQL e Java, que usa scripts de migração de versão para gerenciar mudanças no esquema do banco de dados. Suporta uma ampla gama de bancos de dados relacionais. |
-| **Liquibase**       | Uma ferramenta de controle de versão de banco de dados de código aberto que permite rastrear, gerenciar e aplicar mudanças no banco de dados usando arquivos XML, YAML, JSON ou SQL. Também oferece integração com várias plataformas CI/CD. |
 | **Alembic**         | Uma ferramenta de migração de banco de dados para SQLAlchemy (ORM do Python). Permite criar e aplicar migrações de esquema de banco de dados de maneira eficiente e com suporte a múltiplos bancos de dados SQL. |
 | **LiquiBase**       | Uma ferramenta de código aberto que proporciona controle de versão para esquemas de banco de dados, facilitando o gerenciamento e a aplicação de alterações incrementais no esquema. Suporta vários tipos de bancos de dados. |
 | **DbUp**            | Uma biblioteca .NET que facilita a atualização de esquemas de banco de dados através de scripts SQL. É simples de integrar com aplicações .NET e permite a execução de scripts em ordem, garantindo que todas as mudanças necessárias sejam aplicadas. |
