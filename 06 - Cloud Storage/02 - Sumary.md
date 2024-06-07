@@ -6,7 +6,6 @@ Lista de Soluções de Armazenamento de Dados na Nuvem
 - Amazon S3
 - Amazon EBS
 - Amazon EFS
-- Amazon Glacier
 
 #### Bancos de Dados Relacionais
 - Amazon RDS

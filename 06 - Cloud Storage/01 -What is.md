@@ -1,5 +1,39 @@
+O que é Cloud Storage?
+======================
+
+O armazenamento em nuvem é um modo de armazenamento de dados de computador no qual os dados digitais são armazenados em servidores em locais externos. Os servidores são mantidos por um provedor terceirizado que é responsável por hospedar, gerenciar e proteger os dados armazenados em sua infraestrutura. O provedor garante que os dados em seus servidores estejam sempre acessíveis por meio de conexões de Internet públicas ou privadas.
+
+O armazenamento em nuvem permite que as organizações armazenem, acessem e mantenham os dados de modo que não precisem possuir e operar seus próprios data centers, transferindo as despesas de um modelo de gasto de capital para um modelo operacional. O armazenamento em nuvem é escalonável, permitindo que as organizações expandam ou reduzam sua área de cobertura de dados, dependendo da necessidade. 
+
+O Google Cloud oferece uma variedade de opções escalonáveis para que as organizações armazenem seus dados na nuvem. 
+
+Como funciona o armazenamento em nuvem?
+----------------------------
+
+O armazenamento em nuvem usa servidores remotos para salvar dados, como arquivos, dados comerciais, vídeos ou imagens. Os usuários fazem upload dos dados para os servidores por meio de uma conexão com a Internet, onde eles são salvos em uma máquina virtual em um servidor físico. Para manter a disponibilidade e oferecer redundância, os provedores de nuvem geralmente distribuem os dados em várias máquinas virtuais em data centers localizados em todo o mundo. Se as necessidades de armazenamento aumentarem, o provedor de nuvem ativará mais máquinas virtuais para lidar com a carga. Os usuários podem acessar os dados no Cloud Storage por meio de uma conexão com a Internet e de um software, como portal da Web, navegador ou aplicativo móvel, por meio de uma interface de programação de aplicativos (API).
+
+O Cloud Storage está disponível em quatro modelos diferentes:
+
+### Público
+
+O armazenamento em nuvem pública é um modelo em que uma organização armazena dados nos data centers de um provedor de serviços que também são utilizados por outras empresas. Os dados no armazenamento em nuvem pública estão espalhados por várias regiões e geralmente são oferecidos por assinatura ou pagamento conforme o uso. O armazenamento em nuvem pública é considerado “elástico”, o que significa que os dados armazenados podem ser ampliados ou reduzidos de acordo com as necessidades da organização. Os provedores de nuvem pública normalmente disponibilizam os dados de qualquer dispositivo, como um smartphone ou um portal da Web.
+
+### Privado
+
+O armazenamento em nuvem privada é um modelo em que uma organização utiliza seus próprios servidores e data centers para armazenar dados em sua própria rede. Como alternativa, as organizações podem negociar com provedores de serviços em nuvem para fornecer servidores dedicados e conexões privadas que não são compartilhadas por nenhuma outra organização. As nuvens privadas são normalmente utilizadas por organizações que exigem mais controle sobre seus dados e têm requisitos rigorosos de conformidade e segurança.
+
+### Híbrida
+
+Um modelo de nuvem híbrida é uma combinação de modelos de armazenamento em nuvem pública e privada. Um modelo de armazenamento em nuvem híbrida permite que as organizações decidam quais dados desejam armazenar em qual nuvem. Dados confidenciais e dados que precisam atender a requisitos rigorosos de conformidade podem ser armazenados em uma nuvem privada, enquanto dados menos confidenciais são armazenados na nuvem pública. Um modelo de armazenamento em nuvem híbrida geralmente tem uma camada de orquestração para integrar as duas nuvens. Uma nuvem híbrida oferece flexibilidade e permite que as organizações ainda aumentem a escala com a nuvem pública, se necessário. 
+
+### Multicloud
+
+Um modelo de armazenamento multicloud é quando uma organização configura mais de um modelo de nuvem de mais de um provedor de serviços em nuvem (pública ou privada). As organizações podem optar por um modelo multinuvem se um fornecedor de nuvem oferecer determinados aplicativos proprietários, se a organização exigir que os dados sejam armazenados em um país específico, se várias equipes forem treinadas em nuvens diferentes ou se a organização precisar atender a requisitos diferentes que não estejam declarados nos contratos de nível de serviço dos prestadores de serviços. Um modelo de várias nuvens oferece flexibilidade e redundância às organizações.
+
+Traduzido com a versão gratuita do tradutor - DeepL.com
+
 Soluções de Armazenamento de Dados na Nuvem
-===========================================
+--------------------------------------------
 
 ### AWS (Amazon Web Services)
 #### Soluções de Armazenamento de Dados
@@ -15,9 +49,6 @@ Soluções de Armazenamento de Dados na Nuvem
    - **Descrição:** Sistema de arquivos elástico para múltiplas instâncias EC2.
    - **Uso:** Armazenamento compartilhado, Big Data, servidores de aplicativos.
 
-4. **Amazon S3**
-   - **Descrição:** Armazenamento de arquivamento de baixo custo e longo prazo.
-   - **Uso:** Arquivamento de dados, backup de dados antigos, compliance.
 
 #### Bancos de Dados Relacionais
 1. **Amazon RDS (Relational Database Service)**
