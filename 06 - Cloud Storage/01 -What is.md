@@ -30,6 +30,33 @@ Um modelo de nuvem híbrida é uma combinação de modelos de armazenamento em n
 Um modelo de armazenamento multicloud é quando uma organização configura mais de um modelo de nuvem de mais de um provedor de serviços em nuvem (pública ou privada). As organizações podem optar por um modelo multinuvem se um fornecedor de nuvem oferecer determinados aplicativos proprietários, se a organização exigir que os dados sejam armazenados em um país específico, se várias equipes forem treinadas em nuvens diferentes ou se a organização precisar atender a requisitos diferentes que não estejam declarados nos contratos de nível de serviço dos prestadores de serviços. Um modelo de várias nuvens oferece flexibilidade e redundância às organizações.
 
 
+Vantagens do armazenamento em nuvem
+---------------------------
+
+### Custo total de propriedade
+
+O armazenamento em nuvem permite que as organizações passem de um modelo de despesas de capital para um modelo de despesas operacionais, permitindo que elas ajustem os orçamentos e os recursos rapidamente.
+
+### Elasticidade
+
+O armazenamento em nuvem é elástico e dimensionável, o que significa que ele pode ser ampliado (mais armazenamento adicionado) ou reduzido (menos armazenamento necessário), dependendo das necessidades da organização. 
+
+### Flexibilidade
+
+O armazenamento em nuvem oferece às organizações flexibilidade sobre como armazenar e acessar dados, implementar e orçar recursos e arquitetar sua infraestrutura de TI.  
+
+### Segurança
+
+A maioria dos provedores de nuvem oferece segurança robusta, incluindo segurança física nos data centers e segurança de ponta nos níveis de software e aplicativos. Os melhores provedores de nuvem oferecem [arquitetura de confiança zero] (https://cloud.google.com/beyondcorp-enterprise), gerenciamento de identidade e [acesso] (https://cloud.google.com/iam) e [criptografia] (https://cloud.google.com/security-key-management).
+
+### Sustentabilidade
+
+Um dos maiores custos ao operar data centers locais é a sobrecarga do consumo de energia. Os melhores provedores de nuvem [operam com energia sustentável] (https://cloud.google.com/sustainability) por meio de recursos renováveis.
+
+### Redundância
+
+A redundância (replicação de dados em vários servidores em diferentes locais) é uma característica inerente às nuvens públicas, permitindo que as organizações se recuperem de desastres e, ao mesmo tempo, mantenham a continuidade dos negócios.
+
 
 Soluções de Armazenamento de Dados na Nuvem
 --------------------------------------------
