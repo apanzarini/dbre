@@ -47,11 +47,11 @@ O armazenamento em nuvem oferece às organizações flexibilidade sobre como arm
 
 ### Segurança
 
-A maioria dos provedores de nuvem oferece segurança robusta, incluindo segurança física nos data centers e segurança de ponta nos níveis de software e aplicativos. Os melhores provedores de nuvem oferecem [arquitetura de confiança zero] (https://cloud.google.com/beyondcorp-enterprise), gerenciamento de identidade e [acesso] (https://cloud.google.com/iam) e [criptografia] (https://cloud.google.com/security-key-management).
+A maioria dos provedores de nuvem oferece segurança robusta, incluindo segurança física nos data centers e segurança de ponta nos níveis de software e aplicativos. Os melhores provedores de nuvem oferecem [arquitetura de confiança zero](https://cloud.google.com/beyondcorp-enterprise), gerenciamento de identidade e [acesso](https://cloud.google.com/iam) e [criptografia](https://cloud.google.com/security-key-management).
 
 ### Sustentabilidade
 
-Um dos maiores custos ao operar data centers locais é a sobrecarga do consumo de energia. Os melhores provedores de nuvem [operam com energia sustentável] (https://cloud.google.com/sustainability) por meio de recursos renováveis.
+Um dos maiores custos ao operar data centers locais é a sobrecarga do consumo de energia. Os melhores provedores de nuvem [operam com energia sustentável](https://cloud.google.com/sustainability) por meio de recursos renováveis.
 
 ### Redundância
 
