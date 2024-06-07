@@ -5,7 +5,6 @@ O armazenamento em nuvem é um modo de armazenamento de dados de computador no q
 
 O armazenamento em nuvem permite que as organizações armazenem, acessem e mantenham os dados de modo que não precisem possuir e operar seus próprios data centers, transferindo as despesas de um modelo de gasto de capital para um modelo operacional. O armazenamento em nuvem é escalonável, permitindo que as organizações expandam ou reduzam sua área de cobertura de dados, dependendo da necessidade. 
 
-O Google Cloud oferece uma variedade de opções escalonáveis para que as organizações armazenem seus dados na nuvem. 
 
 Como funciona o armazenamento em nuvem?
 ----------------------------
@@ -30,7 +29,7 @@ Um modelo de nuvem híbrida é uma combinação de modelos de armazenamento em n
 
 Um modelo de armazenamento multicloud é quando uma organização configura mais de um modelo de nuvem de mais de um provedor de serviços em nuvem (pública ou privada). As organizações podem optar por um modelo multinuvem se um fornecedor de nuvem oferecer determinados aplicativos proprietários, se a organização exigir que os dados sejam armazenados em um país específico, se várias equipes forem treinadas em nuvens diferentes ou se a organização precisar atender a requisitos diferentes que não estejam declarados nos contratos de nível de serviço dos prestadores de serviços. Um modelo de várias nuvens oferece flexibilidade e redundância às organizações.
 
-Traduzido com a versão gratuita do tradutor - DeepL.com
+
 
 Soluções de Armazenamento de Dados na Nuvem
 --------------------------------------------
